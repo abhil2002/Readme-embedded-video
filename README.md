@@ -1,7 +1,4 @@
 # Readme-embedded-video
 Trying to embbed a video in readme
-<html>
-<video controls width="250">
-<source src="/media/cc0-videos/flower.webm"
-            type="video/webm">
-</html>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33VxtqlP7HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
